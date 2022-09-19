@@ -19,3 +19,12 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 # About Dataset
 This datasets focus is to predict behavior to retain customers from IBM. (IBM Sample Data Sets)
+
+
+# Supervised Classification Models Used:
+#### 1.) KNeighborsClassifier
+#### 2.) SVC Support Vector Classifier
+#### 3.) DecisionTreeClassifier
+#### 4.) RandomForestClassifier
+#### 5.) LogisticRegression
+#### 6.) GradientBoostingClassifier
