@@ -1,6 +1,7 @@
 # Customer-Churn
 
-![customerchurn](https://user-images.githubusercontent.com/104231685/190941610-68921156-dc6f-4051-822f-4f2ee6d15e2c.jpg)
+![customerchurn](https://user-images.githubusercontent.com/104231685/190941964-1a375203-c28b-49fa-b2b1-e33b54ba1cc9.jpg)
+
 
 Predicting How Many Customers Churn at IBM
 
