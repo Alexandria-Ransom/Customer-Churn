@@ -5,6 +5,8 @@
 
 Predicting How Many Customers Churn at IBM
 
+By: Alexandria R.
+
 # PROJECT OBJECTIVE
 This project takes a customer churn dataset on IBMS customers and uses classification machine learning algothrims to predict how many customer churn. There is 
 a single y target variable "churn" (I am predicting one column attribute in the dataset churn.) 
