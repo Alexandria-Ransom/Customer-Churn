@@ -21,10 +21,10 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 This datasets focus is to predict behavior to retain customers from IBM. (IBM Sample Data Sets)
 
 
-# Supervised Classification Models Used:
-#### 1.) KNeighborsClassifier
-#### 2.) SVC Support Vector Classifier
-#### 3.) DecisionTreeClassifier
-#### 4.) RandomForestClassifier
-#### 5.) LogisticRegression
-#### 6.) GradientBoostingClassifier
+# Supervised Classification Models Used
+#### 1.) KNeighborsClassifier | is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.(IBM)
+#### 2.) SVC Support Vector Classifier | The objective of the support vector machine algorithm is to find a hyperplane in an N-dimensional space(N — the number of features) that distinctly classifies the data points.
+#### 3.) DecisionTreeClassifier | Decision Trees (DTs) are a non-parametric supervised learning method used for classification and regression. The goal is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features. A tree can be seen as a piecewise constant approximation.(Decision Tree Classifier) 
+#### 4.) RandomForestClassifier | A random forest is a meta estimator that fits a number of decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting. The sub-sample size is controlled with the max_samples parameter if bootstrap=True (default), otherwise the whole dataset is used to build each tree. (scikit learn)
+#### 5.) LogisticRegression | This type of statistical model (also known as logit model) is often used for classification and predictive analytics. Logistic regression estimates the probability of an event occurring, such as voted or didn’t vote, based on a given dataset of independent variables. Since the outcome is a probability, the dependent variable is bounded between 0 and 1. In logistic regression, a logit transformation is applied on the odds—that is, the probability of success divided by the probability of failure (IBM)
+#### 6.) GradientBoostingClassifier | Boosting is an ensemble learning method that combines a set of weak learners into a strong learner to minimize training errors. In boosting, a random sample of data is selected, fitted with a model and then trained sequentially—that is, each model tries to compensate for the weaknesses of its predecessor. With each iteration, the weak rules from each individual classifier are combined to form one, strong prediction rule.  (IBM)
